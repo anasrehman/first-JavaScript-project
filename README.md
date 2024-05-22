@@ -85,10 +85,10 @@ With `character` set to `"!"`, `count` set to `10`, and `inverted` set to `false
       !!!!!!!
      !!!!!!!!
     !!!!!!!!!!
-   !!!!!!!!!!!
-  !!!!!!!!!!!!
- !!!!!!!!!!!!!
-!!!!!!!!!!!!!!!
+   !!!!!!!!!!!!
+  !!!!!!!!!!!!!!
+ !!!!!!!!!!!!!!!!
+!!!!!!!!!!!!!!!!!!
 ```
 
 If `inverted` is set to `true`, the pyramid will be upside down.
